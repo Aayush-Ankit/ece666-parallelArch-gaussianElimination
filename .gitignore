@@ -1,0 +1,15 @@
+docs/
+inputs/
+logs/
+*.o
+pth_files
+pth_pipe_files
+*.txt
+*.text
+~$*
+mpi1.cc
+mpi2.cc
+pthread1.cc
+*.xlsx
+*.docx
+*.pdf
